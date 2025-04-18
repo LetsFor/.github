@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/MT9D64Jy/welcome.png" width="600"></p>
+<p align="center"><img src="https://i.postimg.cc/G3x22yth/welcomeback.png" width="600"></p>
 <center><img src="https://i.postimg.cc/TYvV8mSd/cg6df87h76d89dfs7g6gdf8h.png" width="300"></center>
 
 LetsFor — это мощная и гибкая система управления контентом (CMS) с открытым исходным кодом, предназначенная для создания форумов любой сложности. Она сочетает в себе современные технологии, высокую производительность, доступность благодаря лицензии Apache 2.0, а также удобство за счет адаптированного дизайна и постоянной поддержки разработчиков.
