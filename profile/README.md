@@ -1,4 +1,4 @@
-<p align="center"><a href="https://flarum.org" target="_blank"><img src="[https://user-images.githubusercontent.com/19341857/181917693-c9391c43-65f3-4986-a972-97012404f6ed.svg](https://1.downloader.disk.yandex.ru/preview/e9f324b4263eb60b5f6527adb95ae53b9cddedbd698ae5cd25e6c53219b45344/inf/nHnWkOkZR55wZv7KA42k9nLpEKA3uWHyQEMQK0-W6NhZ5U57hb61xzGA3jvA-QtJW-9thCk7a_ptE8GqiR6xOg%3D%3D?uid=1131976035&filename=1624088875_30-phonoteka_org-p-oboi-dlya-geimera-krasivo-30.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1131976035&tknv=v2&size=1444x908" width="400"></a></p>
+<p align="center"><a href="https://flarum.org" target="_blank"><img src="https://i.postimg.cc/MT9D64Jy/welcome.png" width="400"></a></p>
 
 LetsFor — это мощная и гибкая система управления контентом (CMS) с открытым исходным кодом, предназначенная для создания форумов любой сложности. Она сочетает в себе современные технологии, высокую производительность, доступность благодаря лицензии Apache 2.0, а также удобство за счет адаптированного дизайна и постоянной поддержки разработчиков.
 
